@@ -1,10 +1,7 @@
 ### Artificial Intelligence | Education | Entrepreneurship
 
-- 👋 Hi, I’m @SaPhyoThuHtet.
-- 👀 I’m interested in AI, Data Science, NLP, AI Ethics,and Data Ethics.
-- 💞️ I’m looking to collaborate on "AI Ethics, HateSpeech" research papers and projects.
-- 📫 How to reach me ... phyothuhtet.ai@gmail.com.
-
-Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks @ University of Technology Yatanarpon Cyber City
+- 👋 Hi, I’m Su Shar Lae （苏美丽）.
+- 👀 I’m interested in AI, Web Development, Video Editing, and some programming language such as (Java, Python, JavaScript).
+- 💞️ I think I am studying hard like an adult even though I'm not.
 
 
